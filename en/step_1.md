@@ -17,7 +17,8 @@ Scroll down in the trinket to see the punch line!
 
 This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
++ [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}
++ Understand the skills which are developed towards a career involving Computing
 
 ### Additional information for educators
 
